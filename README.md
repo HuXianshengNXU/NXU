@@ -1,1 +1,1 @@
-# NXU
+# EDRec
